@@ -1,0 +1,4502 @@
+[
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": -7,
+    "clicks": 0,
+    "cost": 1216.84,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-24",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 305.48,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-16",
+    "impressions": 256,
+    "clicks": 154,
+    "cost": 1985.38,
+    "conversions": 52
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-26",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 751.43,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-27",
+    "impressions": 269,
+    "clicks": 22,
+    "cost": 289.38,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-07",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 133.95,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 373.29,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-10",
+    "impressions": 560,
+    "clicks": 507,
+    "cost": 806.42,
+    "conversions": 380
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-28",
+    "impressions": 399,
+    "clicks": 303,
+    "cost": 431.29,
+    "conversions": 299
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 344,
+    "clicks": 81,
+    "cost": 1395.4,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 180,
+    "clicks": 48,
+    "cost": 880.92,
+    "conversions": 28
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-22",
+    "impressions": 543,
+    "clicks": 354,
+    "cost": 333.15,
+    "conversions": 332
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-18",
+    "impressions": 866,
+    "clicks": 604,
+    "cost": 1078.95,
+    "conversions": 253
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 617,
+    "clicks": 227,
+    "cost": 966.62,
+    "conversions": 73
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 589,
+    "clicks": 226,
+    "cost": 1471.24,
+    "conversions": 136
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-05",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 674.04,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 931,
+    "clicks": 71,
+    "cost": 934.61,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-04",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1787.97,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 987,
+    "clicks": 808,
+    "cost": 1241.14,
+    "conversions": 414
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 731.92,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-05",
+    "impressions": -6,
+    "clicks": 0,
+    "cost": 1609.63,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1927.71,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-25",
+    "impressions": 317,
+    "clicks": 150,
+    "cost": 691.92,
+    "conversions": 77
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-13",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1856.78,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-10",
+    "impressions": 167,
+    "clicks": 168,
+    "cost": 1543.89,
+    "conversions": 31
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1966.08,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-15",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1164.93,
+    "conversions": 15
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 143.48,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-13",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 728.16,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-15",
+    "impressions": 528,
+    "clicks": 447,
+    "cost": 683.14,
+    "conversions": 364
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 394,
+    "clicks": 300,
+    "cost": 1583.79,
+    "conversions": 93
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 973,
+    "clicks": 640,
+    "cost": 1715.46,
+    "conversions": 115
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-27",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1828.04,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1510.93,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-02",
+    "impressions": 165,
+    "clicks": 149,
+    "cost": 1098.89,
+    "conversions": 27
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-20",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 468.62,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-22",
+    "impressions": 192,
+    "clicks": 95,
+    "cost": 1649.54,
+    "conversions": 88
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1286.65,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 722.14,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-19",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1250.69,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 785.85,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-28",
+    "impressions": 673,
+    "clicks": 7,
+    "cost": 773.99,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 803.66,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 947,
+    "clicks": 641,
+    "cost": 1725.05,
+    "conversions": 100
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 269,
+    "clicks": 123,
+    "cost": 1293.11,
+    "conversions": 22
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1675.3,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 54.97,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 391,
+    "clicks": 351,
+    "cost": 223.0,
+    "conversions": 168
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1577.59,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1258.45,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 682,
+    "clicks": 600,
+    "cost": 1202.3,
+    "conversions": 83
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1090.28,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 335,
+    "clicks": 42,
+    "cost": 1834.03,
+    "conversions": 51
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-03",
+    "impressions": 723,
+    "clicks": 59,
+    "cost": 1804.62,
+    "conversions": 62
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-12",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 852.18,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 422,
+    "clicks": 355,
+    "cost": 1850.8,
+    "conversions": 120
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 734.04,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 432,
+    "clicks": 217,
+    "cost": 1421.42,
+    "conversions": 97
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 709,
+    "clicks": 352,
+    "cost": 52.94,
+    "conversions": 221
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-06",
+    "impressions": 675,
+    "clicks": 202,
+    "cost": 1334.71,
+    "conversions": 123
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 793,
+    "clicks": 698,
+    "cost": 804.0,
+    "conversions": 34
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-13",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1817.54,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1497.77,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1097.72,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 347,
+    "clicks": 321,
+    "cost": 292.4,
+    "conversions": 231
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-02",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1578.97,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 575,
+    "clicks": 12,
+    "cost": 136.94,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 604,
+    "clicks": 385,
+    "cost": 358.49,
+    "conversions": 201
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-11",
+    "impressions": 736,
+    "clicks": 664,
+    "cost": 1995.48,
+    "conversions": 98
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-28",
+    "impressions": 403,
+    "clicks": 322,
+    "cost": 828.65,
+    "conversions": 299
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1109.74,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1489.24,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1010.82,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-07",
+    "impressions": 124,
+    "clicks": 9,
+    "cost": 1112.6,
+    "conversions": 16
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 309.45,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-29",
+    "impressions": 289,
+    "clicks": 44,
+    "cost": 67.16,
+    "conversions": 52
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 72,
+    "clicks": 19,
+    "cost": 1907.34,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1513.33,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 507,
+    "clicks": 353,
+    "cost": 77.99,
+    "conversions": 175
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-13",
+    "impressions": 430,
+    "clicks": 84,
+    "cost": 343.07,
+    "conversions": 68
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-04",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1758.21,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-17",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 498.1,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1439.66,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-08",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 817.59,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 689,
+    "clicks": 256,
+    "cost": 792.69,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-18",
+    "impressions": 105,
+    "clicks": 68,
+    "cost": 1423.01,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 934.16,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-24",
+    "impressions": 973,
+    "clicks": 455,
+    "cost": 1116.24,
+    "conversions": 208
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 950,
+    "clicks": 138,
+    "cost": 1252.02,
+    "conversions": 128
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-24",
+    "impressions": 799,
+    "clicks": 674,
+    "cost": 556.17,
+    "conversions": 268
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 485,
+    "clicks": 117,
+    "cost": 252.55,
+    "conversions": 21
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 334,
+    "clicks": 182,
+    "cost": 1923.32,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-17",
+    "impressions": 422,
+    "clicks": 259,
+    "cost": 162.7,
+    "conversions": 81
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 279,
+    "clicks": 237,
+    "cost": 158.84,
+    "conversions": 243
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-07",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1116.19,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 732,
+    "clicks": 114,
+    "cost": 160.6,
+    "conversions": 48
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 953.13,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-17",
+    "impressions": 968,
+    "clicks": 37,
+    "cost": 1333.52,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-19",
+    "impressions": 755,
+    "clicks": 73,
+    "cost": 1313.73,
+    "conversions": 16
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 55,
+    "clicks": 44,
+    "cost": 1759.28,
+    "conversions": 18
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-24",
+    "impressions": 43,
+    "clicks": 36,
+    "cost": 439.66,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-01",
+    "impressions": 395,
+    "clicks": 124,
+    "cost": 1781.44,
+    "conversions": 38
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-06",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1376.84,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-20",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1458.98,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 562.69,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-03",
+    "impressions": 12,
+    "clicks": 5,
+    "cost": 1278.91,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-07",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 30.15,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-28",
+    "impressions": 888,
+    "clicks": 245,
+    "cost": 1346.03,
+    "conversions": 250
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-10",
+    "impressions": 55,
+    "clicks": 51,
+    "cost": 1702.28,
+    "conversions": 55
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-18",
+    "impressions": 901,
+    "clicks": 150,
+    "cost": 1802.01,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1469.61,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 77.28,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-21",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1250.99,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-16",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1065.93,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 543,
+    "clicks": 17,
+    "cost": 1132.0,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-07",
+    "impressions": 107,
+    "clicks": 24,
+    "cost": 1456.62,
+    "conversions": 18
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 778.46,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-04",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 345.92,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 389.42,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-11",
+    "impressions": 665,
+    "clicks": 457,
+    "cost": 1073.08,
+    "conversions": 390
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1923.58,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1218.07,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 956,
+    "clicks": 800,
+    "cost": 1924.53,
+    "conversions": 796
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-27",
+    "impressions": 498,
+    "clicks": 494,
+    "cost": 1248.03,
+    "conversions": 157
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-18",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1919.71,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-30",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 418.62,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 396,
+    "clicks": 399,
+    "cost": 248.02,
+    "conversions": 14
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-14",
+    "impressions": 536,
+    "clicks": 493,
+    "cost": 229.18,
+    "conversions": 331
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 457.61,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1449.28,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-18",
+    "impressions": 91,
+    "clicks": 24,
+    "cost": 821.94,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-03",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1987.47,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-23",
+    "impressions": 89,
+    "clicks": 90,
+    "cost": 518.69,
+    "conversions": 89
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 629,
+    "clicks": 532,
+    "cost": 616.83,
+    "conversions": 313
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 104,
+    "clicks": 85,
+    "cost": 1463.97,
+    "conversions": 55
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 796,
+    "clicks": 314,
+    "cost": 887.55,
+    "conversions": 191
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1048.27,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-23",
+    "impressions": 148,
+    "clicks": 129,
+    "cost": 1634.15,
+    "conversions": 76
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-22",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1096.23,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-09",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 66.43,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-08",
+    "impressions": 444,
+    "clicks": 262,
+    "cost": 1473.47,
+    "conversions": 259
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 895,
+    "clicks": 93,
+    "cost": 1517.35,
+    "conversions": 98
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-29",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1409.27,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-11",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 630.1,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 886.29,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 225,
+    "clicks": 131,
+    "cost": 456.71,
+    "conversions": 83
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-11",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 109.74,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 559,
+    "clicks": 178,
+    "cost": 732.84,
+    "conversions": 81
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1984.71,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 593,
+    "clicks": 134,
+    "cost": 1056.86,
+    "conversions": 14
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-19",
+    "impressions": 242,
+    "clicks": 180,
+    "cost": 961.92,
+    "conversions": 136
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-29",
+    "impressions": 282,
+    "clicks": 225,
+    "cost": 183.83,
+    "conversions": 82
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-14",
+    "impressions": 983,
+    "clicks": 823,
+    "cost": 190.11,
+    "conversions": 826
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 844.24,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-10",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1337.03,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-21",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 427.8,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 963,
+    "clicks": 125,
+    "cost": 1258.15,
+    "conversions": 128
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 504,
+    "clicks": 285,
+    "cost": 1572.66,
+    "conversions": 287
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-13",
+    "impressions": 746,
+    "clicks": 708,
+    "cost": 1601.31,
+    "conversions": 407
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-07",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1601.66,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-02",
+    "impressions": 932,
+    "clicks": 588,
+    "cost": 781.72,
+    "conversions": 162
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 935,
+    "clicks": 420,
+    "cost": 1819.07,
+    "conversions": 151
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-18",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 917.74,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 128,
+    "clicks": 0,
+    "cost": 1059.96,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-12",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1902.75,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-06",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1814.47,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 976.18,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-04",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 957.26,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1266.18,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-04",
+    "impressions": 303,
+    "clicks": 161,
+    "cost": 616.12,
+    "conversions": 21
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 126.1,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1035.89,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 32,
+    "clicks": 8,
+    "cost": 204.92,
+    "conversions": 14
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-04",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1119.81,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 7.83,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-20",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 423.48,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 725,
+    "clicks": 385,
+    "cost": 1230.59,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-23",
+    "impressions": 38,
+    "clicks": 9,
+    "cost": 477.76,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 917,
+    "clicks": 595,
+    "cost": 705.48,
+    "conversions": 181
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 488.59,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 528,
+    "clicks": 205,
+    "cost": 1834.48,
+    "conversions": 131
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 577,
+    "clicks": 15,
+    "cost": 1867.15,
+    "conversions": 19
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-28",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1882.65,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-21",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1527.12,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-25",
+    "impressions": 537,
+    "clicks": 293,
+    "cost": 229.98,
+    "conversions": 246
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-02",
+    "impressions": 777,
+    "clicks": 675,
+    "cost": 1254.45,
+    "conversions": 663
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 983,
+    "clicks": 46,
+    "cost": 508.15,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 942,
+    "clicks": 830,
+    "cost": 1726.14,
+    "conversions": 144
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 663,
+    "clicks": 501,
+    "cost": 809.58,
+    "conversions": 149
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-03",
+    "impressions": 65,
+    "clicks": 48,
+    "cost": 481.03,
+    "conversions": 27
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-23",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1058.68,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 530.16,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-19",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 829.25,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1972.37,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 672.92,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1827.39,
+    "conversions": 14
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-24",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1812.2,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-29",
+    "impressions": 607,
+    "clicks": 496,
+    "cost": 1567.38,
+    "conversions": 80
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 631.44,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 630,
+    "clicks": 592,
+    "cost": 772.41,
+    "conversions": 131
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1529.19,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 332,
+    "clicks": 240,
+    "cost": 1368.46,
+    "conversions": 94
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 389,
+    "clicks": 12,
+    "cost": 388.27,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-15",
+    "impressions": 649,
+    "clicks": 504,
+    "cost": 301.3,
+    "conversions": 481
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-08",
+    "impressions": 640,
+    "clicks": 518,
+    "cost": 1071.5,
+    "conversions": 73
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-15",
+    "impressions": 975,
+    "clicks": 559,
+    "cost": 435.45,
+    "conversions": 541
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-06",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 653.58,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 495,
+    "clicks": 56,
+    "cost": 1641.55,
+    "conversions": 49
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-02",
+    "impressions": 283,
+    "clicks": 70,
+    "cost": 1388.23,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-30",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1846.11,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 421.96,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-20",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1377.72,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 56,
+    "clicks": 38,
+    "cost": 42.04,
+    "conversions": 39
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-07",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1294.7,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 343.16,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1558.7,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 900,
+    "clicks": 22,
+    "cost": 1880.83,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-02",
+    "impressions": 998,
+    "clicks": 526,
+    "cost": 125.43,
+    "conversions": 104
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-13",
+    "impressions": 453,
+    "clicks": 122,
+    "cost": 1678.83,
+    "conversions": 45
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-11",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 812.44,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 161,
+    "clicks": 3,
+    "cost": 633.98,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-21",
+    "impressions": 778,
+    "clicks": 181,
+    "cost": 1993.57,
+    "conversions": 35
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 114.55,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 263,
+    "clicks": 237,
+    "cost": 221.97,
+    "conversions": 79
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-07",
+    "impressions": 518,
+    "clicks": 150,
+    "cost": 1965.69,
+    "conversions": 87
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-08",
+    "impressions": 222,
+    "clicks": 45,
+    "cost": 474.22,
+    "conversions": 17
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 980,
+    "clicks": 89,
+    "cost": 1729.37,
+    "conversions": 79
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-20",
+    "impressions": 693,
+    "clicks": 681,
+    "cost": 1293.58,
+    "conversions": 409
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 896,
+    "clicks": 218,
+    "cost": 464.53,
+    "conversions": 30
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-08",
+    "impressions": 548,
+    "clicks": 468,
+    "cost": 1682.88,
+    "conversions": 81
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 45,
+    "clicks": 44,
+    "cost": 154.66,
+    "conversions": 37
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-10",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1320.69,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-21",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 276.39,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 504.88,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 719,
+    "clicks": 515,
+    "cost": 642.14,
+    "conversions": 200
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-29",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1555.21,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-22",
+    "impressions": 85,
+    "clicks": 23,
+    "cost": 1153.55,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 54,
+    "clicks": 44,
+    "cost": 137.42,
+    "conversions": 53
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 278,
+    "clicks": 115,
+    "cost": 355.53,
+    "conversions": 27
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-23",
+    "impressions": 394,
+    "clicks": 271,
+    "cost": 1836.12,
+    "conversions": 183
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-24",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 708.35,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 849.26,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 723.51,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1246.8,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 64,
+    "clicks": 6,
+    "cost": 293.82,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-05",
+    "impressions": 4,
+    "clicks": 2,
+    "cost": 855.54,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-12",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 65.58,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-17",
+    "impressions": 727,
+    "clicks": 288,
+    "cost": 1158.3,
+    "conversions": 241
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1762.18,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-18",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1075.96,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-29",
+    "impressions": 620,
+    "clicks": 603,
+    "cost": 1089.35,
+    "conversions": 479
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 799.32,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 887.37,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 689.26,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 511.84,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1195.94,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 127,
+    "clicks": 33,
+    "cost": 981.05,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 773.48,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-14",
+    "impressions": 280,
+    "clicks": 280,
+    "cost": 1294.32,
+    "conversions": 22
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1729.63,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-07",
+    "impressions": 741,
+    "clicks": 410,
+    "cost": 770.16,
+    "conversions": 146
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-23",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1270.09,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-27",
+    "impressions": 301,
+    "clicks": 34,
+    "cost": 535.51,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 376.12,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1496.76,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-05",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 349.41,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-27",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1104.46,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 107.95,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 281,
+    "clicks": 263,
+    "cost": 1693.86,
+    "conversions": 218
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 101.83,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-22",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1628.79,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-09",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 585.7,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1448.67,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 686,
+    "clicks": 690,
+    "cost": 1979.47,
+    "conversions": 339
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 906,
+    "clicks": 500,
+    "cost": 881.04,
+    "conversions": 243
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-16",
+    "impressions": 629,
+    "clicks": 215,
+    "cost": 905.33,
+    "conversions": 65
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 449,
+    "clicks": 212,
+    "cost": 275.63,
+    "conversions": 23
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-18",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1222.1,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 405,
+    "clicks": 140,
+    "cost": 1353.92,
+    "conversions": 134
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-01",
+    "impressions": 661,
+    "clicks": 279,
+    "cost": 308.33,
+    "conversions": 141
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-26",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1064.23,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 154,
+    "clicks": 80,
+    "cost": 91.25,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 378.1,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 544.31,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-12",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1415.79,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 855,
+    "clicks": 36,
+    "cost": 345.83,
+    "conversions": 18
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 156.43,
+    "conversions": 14
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-22",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1835.45,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 573,
+    "clicks": 183,
+    "cost": 747.03,
+    "conversions": 173
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 886,
+    "clicks": 32,
+    "cost": 1707.31,
+    "conversions": 42
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-08",
+    "impressions": 639,
+    "clicks": 257,
+    "cost": 836.09,
+    "conversions": 266
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-28",
+    "impressions": 904,
+    "clicks": 865,
+    "cost": 353.27,
+    "conversions": 368
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1934.04,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 36,
+    "clicks": 11,
+    "cost": 1066.12,
+    "conversions": 16
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-09",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1780.97,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-14",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 491.02,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-05",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 277.0,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 318.44,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 816,
+    "clicks": 339,
+    "cost": 891.06,
+    "conversions": 150
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-27",
+    "impressions": 104,
+    "clicks": 7,
+    "cost": 1975.55,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-31",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1475.93,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-17",
+    "impressions": 299,
+    "clicks": 15,
+    "cost": 921.67,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-03",
+    "impressions": 943,
+    "clicks": 624,
+    "cost": 259.11,
+    "conversions": 281
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-03",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 12.24,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1892.02,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 846.75,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-08",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 502.53,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-30",
+    "impressions": 440,
+    "clicks": 218,
+    "cost": 1992.32,
+    "conversions": 157
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-15",
+    "impressions": 795,
+    "clicks": 637,
+    "cost": 88.74,
+    "conversions": 444
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-16",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 897.48,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1368.7,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-14",
+    "impressions": 836,
+    "clicks": 595,
+    "cost": 235.17,
+    "conversions": 552
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-20",
+    "impressions": 76,
+    "clicks": 4,
+    "cost": 1823.47,
+    "conversions": 14
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-03",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1126.38,
+    "conversions": 15
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-28",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1514.71,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-23",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 377.9,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 599,
+    "clicks": 141,
+    "cost": 68.61,
+    "conversions": 83
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-17",
+    "impressions": 815,
+    "clicks": 208,
+    "cost": 310.03,
+    "conversions": 143
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-24",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1191.03,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 275.67,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-24",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 311.29,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-30",
+    "impressions": 439,
+    "clicks": 61,
+    "cost": 1851.88,
+    "conversions": 24
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-04",
+    "impressions": 947,
+    "clicks": 510,
+    "cost": 207.82,
+    "conversions": 360
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 39.03,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 942,
+    "clicks": 375,
+    "cost": 1878.68,
+    "conversions": 184
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 808.59,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 108,
+    "clicks": 88,
+    "cost": 660.46,
+    "conversions": 97
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1287.25,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-03",
+    "impressions": 147,
+    "clicks": 123,
+    "cost": 1955.21,
+    "conversions": 47
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 855,
+    "clicks": 602,
+    "cost": 381.66,
+    "conversions": 19
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1114.42,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 750,
+    "clicks": 402,
+    "cost": 970.92,
+    "conversions": 60
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-04",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 824.1,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-08",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 996.09,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 3.89,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1381.32,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-31",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1066.19,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-16",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1977.89,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-17",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 796.44,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-21",
+    "impressions": 601,
+    "clicks": 369,
+    "cost": 1639.79,
+    "conversions": 188
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-16",
+    "impressions": 170,
+    "clicks": 6,
+    "cost": 68.51,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 556.98,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1973.99,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-23",
+    "impressions": 1,
+    "clicks": 6,
+    "cost": 1210.02,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 949,
+    "clicks": 762,
+    "cost": 672.74,
+    "conversions": 71
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-25",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 957.15,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-20",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 419.5,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-09",
+    "impressions": 903,
+    "clicks": 130,
+    "cost": 651.79,
+    "conversions": 104
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 357.85,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 316.93,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-25",
+    "impressions": 143,
+    "clicks": 141,
+    "cost": 252.74,
+    "conversions": 15
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-07",
+    "impressions": 412,
+    "clicks": 327,
+    "cost": 1369.68,
+    "conversions": 17
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1937.05,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-21",
+    "impressions": 355,
+    "clicks": 229,
+    "cost": 1143.88,
+    "conversions": 75
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-21",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 900.45,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 535,
+    "clicks": 135,
+    "cost": 1156.33,
+    "conversions": 14
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-16",
+    "impressions": 817,
+    "clicks": 539,
+    "cost": 1598.77,
+    "conversions": 58
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-26",
+    "impressions": 610,
+    "clicks": 182,
+    "cost": 1064.43,
+    "conversions": 132
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-25",
+    "impressions": 707,
+    "clicks": 571,
+    "cost": 1929.17,
+    "conversions": 571
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-20",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 73.05,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-27",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 42.53,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 22.34,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 417,
+    "clicks": 121,
+    "cost": 327.64,
+    "conversions": 128
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1589.89,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 708,
+    "clicks": 397,
+    "cost": 1694.57,
+    "conversions": 383
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-10",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1885.78,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 147.09,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-25",
+    "impressions": 817,
+    "clicks": 367,
+    "cost": 680.25,
+    "conversions": 113
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 559.5,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-25",
+    "impressions": 485,
+    "clicks": 123,
+    "cost": 1924.88,
+    "conversions": 63
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 948,
+    "clicks": 554,
+    "cost": 345.86,
+    "conversions": 511
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-07",
+    "impressions": 764,
+    "clicks": 235,
+    "cost": 1419.38,
+    "conversions": 83
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 570.21,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 862,
+    "clicks": 366,
+    "cost": 935.54,
+    "conversions": 99
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-19",
+    "impressions": 759,
+    "clicks": 476,
+    "cost": 1483.39,
+    "conversions": 334
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 824,
+    "clicks": 310,
+    "cost": 1016.61,
+    "conversions": 270
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 749.36,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 853,
+    "clicks": 296,
+    "cost": 1944.93,
+    "conversions": 32
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 143,
+    "clicks": 51,
+    "cost": 1982.79,
+    "conversions": 60
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 142.36,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 279.44,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-07",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1755.96,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-29",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 393.62,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 453,
+    "clicks": 456,
+    "cost": 1763.41,
+    "conversions": 33
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 645,
+    "clicks": 450,
+    "cost": 1430.72,
+    "conversions": 418
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-10",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1513.51,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-20",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 750.89,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-10",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1292.78,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_B",
+    "date": "2025-07-01",
+    "impressions": 451,
+    "clicks": 454,
+    "cost": 771.65,
+    "conversions": 113
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-11",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1170.75,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-30",
+    "impressions": 402,
+    "clicks": 271,
+    "cost": 1106.02,
+    "conversions": 15
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 54,
+    "clicks": 0,
+    "cost": 1389.4,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-14",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1601.66,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-25",
+    "impressions": 469,
+    "clicks": 90,
+    "cost": 83.35,
+    "conversions": 15
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 903,
+    "clicks": 587,
+    "cost": 1820.28,
+    "conversions": 296
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-14",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 665.78,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-17",
+    "impressions": 884,
+    "clicks": 57,
+    "cost": 1448.07,
+    "conversions": 24
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-14",
+    "impressions": 144,
+    "clicks": 127,
+    "cost": 516.14,
+    "conversions": 14
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-27",
+    "impressions": 287,
+    "clicks": 1,
+    "cost": 1764.49,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-14",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1902.08,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-02",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 685.66,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-26",
+    "impressions": 557,
+    "clicks": 438,
+    "cost": 1668.58,
+    "conversions": 394
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1850.28,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 679,
+    "clicks": 74,
+    "cost": 1968.55,
+    "conversions": 22
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-05",
+    "impressions": 586,
+    "clicks": 489,
+    "cost": 1418.04,
+    "conversions": 369
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 844.17,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 836,
+    "clicks": 608,
+    "cost": 1504.03,
+    "conversions": 411
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 200,
+    "clicks": 11,
+    "cost": 886.75,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-23",
+    "impressions": 737,
+    "clicks": 464,
+    "cost": 1301.84,
+    "conversions": 294
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-04",
+    "impressions": 102,
+    "clicks": 17,
+    "cost": 216.97,
+    "conversions": 26
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-16",
+    "impressions": 766,
+    "clicks": 675,
+    "cost": 1026.67,
+    "conversions": 629
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-08",
+    "impressions": 758,
+    "clicks": 484,
+    "cost": 1558.62,
+    "conversions": 331
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1994.0,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1612.59,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-10",
+    "impressions": 950,
+    "clicks": 416,
+    "cost": 1480.75,
+    "conversions": 112
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1652.19,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-18",
+    "impressions": 364,
+    "clicks": 37,
+    "cost": 977.49,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-14",
+    "impressions": 403,
+    "clicks": 27,
+    "cost": 1524.5,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-26",
+    "impressions": 714,
+    "clicks": 602,
+    "cost": 1377.45,
+    "conversions": 529
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-09",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1413.71,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 663.58,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-15",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 529.85,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 879,
+    "clicks": 758,
+    "cost": 1687.81,
+    "conversions": 75
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-05",
+    "impressions": 948,
+    "clicks": 293,
+    "cost": 1670.07,
+    "conversions": 37
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-06",
+    "impressions": 968,
+    "clicks": 631,
+    "cost": 1043.97,
+    "conversions": 628
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025-07-08",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 691.36,
+    "conversions": 3
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 183,
+    "clicks": 177,
+    "cost": 1584.99,
+    "conversions": 90
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1618.54,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-09",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 366.91,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-06",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 369.33,
+    "conversions": 11
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-29",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 602.96,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1314.11,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-29",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1163.24,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-04",
+    "impressions": 933,
+    "clicks": 540,
+    "cost": 1941.35,
+    "conversions": 107
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-07",
+    "impressions": 184,
+    "clicks": 134,
+    "cost": 1325.63,
+    "conversions": 137
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1582.39,
+    "conversions": 15
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 404.48,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-21",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1492.86,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-25",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1713.82,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-27",
+    "impressions": 675,
+    "clicks": 327,
+    "cost": 1624.06,
+    "conversions": 139
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-05",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1269.12,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 580,
+    "clicks": 204,
+    "cost": 1006.29,
+    "conversions": 161
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-12",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 983.8,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 561.61,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 658,
+    "clicks": 574,
+    "cost": 1983.18,
+    "conversions": 241
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 1666.74,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_B",
+    "date": "2025-06-21",
+    "impressions": 830,
+    "clicks": 294,
+    "cost": 1135.38,
+    "conversions": 137
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 148,
+    "clicks": 88,
+    "cost": 1483.24,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-02",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1259.8,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 576.63,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-04",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1068.0,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1773.55,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-05",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1072.58,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 430.3,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 825.15,
+    "conversions": 5
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-28",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1542.6,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-22",
+    "impressions": 887,
+    "clicks": 507,
+    "cost": 1447.22,
+    "conversions": 184
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-08",
+    "impressions": 936,
+    "clicks": 498,
+    "cost": 420.38,
+    "conversions": 408
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-16",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1204.97,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 1628.36,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 79,
+    "clicks": 48,
+    "cost": 1590.55,
+    "conversions": 29
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-09",
+    "impressions": 133,
+    "clicks": 31,
+    "cost": 1741.22,
+    "conversions": 12
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 760.72,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-16",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 508.86,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1503.73,
+    "conversions": 8
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_A",
+    "date": "2025-07-19",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 479.79,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 74,
+    "clicks": 21,
+    "cost": 338.56,
+    "conversions": 13
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025-07-28",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 463.42,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 375,
+    "clicks": 304,
+    "cost": 1194.05,
+    "conversions": 276
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 379.95,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 532.29,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 934.08,
+    "conversions": 7
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 890,
+    "clicks": 120,
+    "cost": 1060.92,
+    "conversions": 31
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 265,
+    "clicks": 42,
+    "cost": 1440.97,
+    "conversions": 10
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-20",
+    "impressions": 372,
+    "clicks": 290,
+    "cost": 757.1,
+    "conversions": 118
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 662,
+    "clicks": 518,
+    "cost": 490.77,
+    "conversions": 243
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1446.94,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_C",
+    "date": "2025-06-18",
+    "impressions": 790,
+    "clicks": 531,
+    "cost": 1995.7,
+    "conversions": 219
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_A",
+    "date": "2025-08-14",
+    "impressions": 251,
+    "clicks": 178,
+    "cost": 489.03,
+    "conversions": 56
+  },
+  {
+    "campaign_id": "CAMP110",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-18",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1817.38,
+    "conversions": 6
+  },
+  {
+    "campaign_id": "CAMP101",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1021.52,
+    "conversions": 1
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 121,
+    "clicks": 67,
+    "cost": 156.28,
+    "conversions": 36
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-11",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 1072.95,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 933.61,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_A",
+    "date": "2025-06-21",
+    "impressions": 161,
+    "clicks": 45,
+    "cost": 688.36,
+    "conversions": 43
+  },
+  {
+    "campaign_id": "CAMP102",
+    "campaign_name": "Campaign_B",
+    "date": "2025-08-02",
+    "impressions": 988,
+    "clicks": 364,
+    "cost": 149.36,
+    "conversions": 29
+  },
+  {
+    "campaign_id": "CAMP103",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 0,
+    "cost": 340.77,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 684,
+    "clicks": 289,
+    "cost": 1464.46,
+    "conversions": 174
+  },
+  {
+    "campaign_id": "CAMP107",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 350.75,
+    "conversions": 9
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025-08-11",
+    "impressions": 0,
+    "clicks": 2,
+    "cost": 1615.98,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-15",
+    "impressions": 326,
+    "clicks": 46,
+    "cost": 1594.58,
+    "conversions": 31
+  },
+  {
+    "campaign_id": "CAMP105",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 5,
+    "cost": 935.62,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 4,
+    "cost": 1344.01,
+    "conversions": 4
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 3,
+    "cost": 1536.12,
+    "conversions": 0
+  },
+  {
+    "campaign_id": "CAMP104",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 231,
+    "clicks": 52,
+    "cost": 609.73,
+    "conversions": 21
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_A",
+    "date": "2025/09/01",
+    "impressions": 911,
+    "clicks": 437,
+    "cost": 1915.87,
+    "conversions": 327
+  },
+  {
+    "campaign_id": "CAMP100",
+    "campaign_name": "Campain_C",
+    "date": "2025-06-16",
+    "impressions": 701,
+    "clicks": 536,
+    "cost": 1002.81,
+    "conversions": 124
+  },
+  {
+    "campaign_id": "CAMP109",
+    "campaign_name": "Campain_C",
+    "date": "2025/09/01",
+    "impressions": 0,
+    "clicks": 1,
+    "cost": 663.06,
+    "conversions": 2
+  },
+  {
+    "campaign_id": "CAMP106",
+    "campaign_name": "Campaign_B",
+    "date": "2025/09/01",
+    "impressions": 399,
+    "clicks": 226,
+    "cost": 1662.71,
+    "conversions": 112
+  },
+  {
+    "campaign_id": "CAMP108",
+    "campaign_name": "Campaign_C",
+    "date": "2025-08-14",
+    "impressions": 369,
+    "clicks": 84,
+    "cost": 1839.76,
+    "conversions": 34
+  }
+]
