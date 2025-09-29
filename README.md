@@ -1,6 +1,6 @@
 # 📊 BI Dashboard & Stakeholder Report
 
-👉 Check out the [**BI Dashboard**](https://your-bi-dashboard-link.com) and the [**Stakeholder Report**](./reports/stake_holder.html).
+👉 Check out the [**BI Dashboard**](https://your-bi-dashboard-link.com) and the [**Stakeholder Report**](./report/stakeholder_report.html).
 
 ---
 
@@ -40,7 +40,7 @@
   - If **status = cancelled** and **conversion_flag = no** → _Dropped after trial_  
   - If **status = cancelled** and **conversion_flag = yes** → _Churned_  
 - Retention is measured using **server activity** of accounts:  
-  - **M1:** 0–30 days from first activity date  
+  - **M1:** 1–30 days from first activity date  
   - **M2:** 30–60 days from first activity date  
   - **M3:** 60–90 days from first activity date  
   - *Note:* `event_date` is used even when it precedes `signup_date`, to maximize data points.
