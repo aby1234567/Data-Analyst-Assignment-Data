@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Executive Growth & Retention Report - Q3 2025</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #f8f9fa;
+            --card-bg: #ffffff;
+            --primary-text: #212529;
+            --secondary-text: #6c757d;
+            --accent-color: #007bff;
+            --border-color: #dee2e6;
+            --shadow: 0 4px 8px rgba(0,0,0,0.05);
+            --success-color: #28a745;
+            --danger-color: #dc3545;
+            --warning-color: #ffc107;
+        }
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--primary-text);
+            margin: 0;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .report-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 1.5rem;
+        }
+        .report-header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--primary-text);
+            margin: 0;
+        }
+        .report-header p {
+            font-size: 1.1rem;
+            color: var(--secondary-text);
+            margin-top: 0.5rem;
+        }
+        .section-title {
+            font-size: 1.75rem;
+            font-weight: 600;
+            margin-top: 3rem;
+            margin-bottom: 1.5rem;
+            position: relative;
+            padding-bottom: 0.5rem;
+        }
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 50px;
+            height: 3px;
+            background-color: var(--accent-color);
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            padding: 1.5rem;
+            transition: transform 0.2s ease-in-out;
+            display: flex;
+            flex-direction: column;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .card h3 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-top: 0;
+            color: var(--accent-color);
+        }
+        .kpi {
+            font-size: 3rem;
+            font-weight: 700;
+            color: var(--primary-text);
+            margin: 0.5rem 0;
+        }
+        .kpi-label {
+            font-size: 1rem;
+            color: var(--secondary-text);
+            font-weight: 500;
+        }
+        .trend {
+            font-weight: 600;
+        }
+        .trend.positive { color: var(--success-color); }
+        .trend.negative { color: var(--danger-color); }
+
+        .analysis-answer {
+            font-size: 2.25rem;
+            font-weight: 700;
+            color: var(--success-color);
+            margin-bottom: 0.5rem;
+        }
+        .analysis-explanation {
+            margin-top:0;
+            margin-bottom: 1.5rem;
+            font-size: 1.05rem;
+        }
+
+        /* Funnel Visualization */
+        .funnel-container {
+            padding: 1rem 0;
+        }
+        .funnel-step {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        .funnel-label {
+            width: 120px;
+            font-weight: 500;
+        }
+        .funnel-bar-wrapper {
+            flex-grow: 1;
+            background-color: #e9ecef;
+            border-radius: 4px;
+        }
+        .funnel-bar {
+            height: 25px;
+            border-radius: 4px;
+            background: linear-gradient(90deg, var(--accent-color), #89cff0);
+            text-align: right;
+            padding-right: 10px;
+            color: white;
+            font-weight: 600;
+            line-height: 25px;
+            white-space: nowrap;
+        }
+        .drop-off {
+            font-weight: 700;
+            color: var(--danger-color);
+            margin-left: 1rem;
+            font-size: 0.9rem;
+        }
+
+        /* Table Styles */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+        }
+        th, td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+        th {
+            background-color: #f1f3f5;
+            font-weight: 600;
+        }
+        tbody tr:hover {
+            background-color: #f8f9fa;
+        }
+        .highlight-good {
+            font-weight: 700;
+            color: var(--success-color);
+            background-color: #e6f7ec;
+        }
+        .highlight-bad {
+            color: var(--danger-color);
+        }
+        .note {
+            font-size: 0.85rem;
+            color: var(--secondary-text);
+            margin-top: 1rem;
+        }
+
+        /* Recommendations Section */
+        .recommendations-list {
+            list-style: none;
+            padding-left: 0;
+            counter-reset: recommendations-counter;
+        }
+        .recommendations-list li {
+            position: relative;
+            padding: 1.5rem 1.5rem 1.5rem 4rem;
+            margin-bottom: 1.5rem;
+            background: var(--card-bg);
+            border-left: 4px solid var(--accent-color);
+            border-radius: 4px;
+            box-shadow: var(--shadow);
+        }
+        .recommendations-list li::before {
+            counter-increment: recommendations-counter;
+            content: counter(recommendations-counter);
+            position: absolute;
+            left: 1.5rem;
+            top: 1.5rem;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent-color);
+            background-color: #e7f3ff;
+            border-radius: 50%;
+            width: 36px;
+            height: 36px;
+            text-align: center;
+            line-height: 36px;
+        }
+        .recommendations-list h4 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+        .recommendations-list p {
+            margin: 0;
+            color: var(--secondary-text);
+        }
+
+        @media (max-width: 768px) {
+            body { padding: 1rem; }
+            .report-header h1 { font-size: 2rem; }
+            .section-title { font-size: 1.5rem; }
+            .kpi { font-size: 2.5rem; }
+            .recommendations-list li { padding: 1rem 1rem 1rem 3.5rem; }
+            .recommendations-list li::before { left: 1rem; top: 1rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <header class="report-header">
+            <h1>Executive Growth & Retention Report</h1>
+            <p>Analysis for Q3 2025 | Key Findings and Strategic Priorities</p>
+        </header>
+
+        <main>
+            <!-- Section 1: Funnel Drop-offs -->
+            <section id="funnel">
+                <h2 class="section-title">1. Where are the biggest drop-offs in the funnel?</h2>
+                <div class="card">
+                    <h3>Finding the Leak: A 60% Drop-Off Post-Signup</h3>
+                    <p>The most significant loss of potential customers occurs immediately after they sign up, before they engage with a trial. This initial step is the leakiest part of our funnel and our biggest opportunity for growth.</p>
+                    <div class="funnel-container">
+                        <div class="funnel-step">
+                            <div class="funnel-label">Signups</div>
+                            <div class="funnel-bar-wrapper">
+                                <div class="funnel-bar" style="width: 100%;">100%</div>
+                            </div>
+                        </div>
+                        <div class="funnel-step">
+                            <div class="funnel-label">Took Trial</div>
+                            <div class="funnel-bar-wrapper">
+                                <div class="funnel-bar" style="width: 40%;">40%</div>
+                            </div>
+                             <div class="drop-off">▼ 60% Drop</div>
+                        </div>
+                        <div class="funnel-step">
+                            <div class="funnel-label">Subscribed</div>
+                            <div class="funnel-bar-wrapper">
+                                <div class="funnel-bar" style="width: 32%;">32%</div>
+                            </div>
+                            <div class="drop-off">▼ 20% Drop</div>
+                        </div>
+                    </div>
+                     <p class="note">Drop-off rates are consistent across all major traffic sources (Google Ads: 60.9%, Organic: 60.3%, Referral: 62.2%).</p>
+                </div>
+            </section>
+
+            <!-- Section 4: MRR & ARPU -->
+            <section id="mrr-arpu">
+                <h2 class="section-title">2. How do these patterns impact key revenue metrics?</h2>
+                 <p>Funnel and retention performance directly correlate with Monthly Recurring Revenue (MRR) and Average Revenue Per User (ARPU).</p>
+                <div class="grid">
+                    <div class="card">
+                        <h3>The July Dip</h3>
+                        <p class="kpi-label">MRR</p>
+                        <p class="kpi trend negative">₹930K</p>
+                        <p class="kpi-label">From ₹1.39M in June. This aligns perfectly with poor M1 retention from the July signup cohort.</p>
+                    </div>
+                    <div class="card">
+                        <h3>The August Recovery</h3>
+                         <p class="kpi-label">ARPU</p>
+                        <p class="kpi trend positive">₹19.76K</p>
+                        <p class="kpi-label">Spiked to an all-time high. Driven by <strong>expansion revenue</strong> from older, stronger cohorts, not new user retention.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 2 & 3: Cohorts & Channels -->
+            <section id="retention-channels">
+                <h2 class="section-title">3. Do campaign sources explain differences in retention?</h2>
+                <div class="analysis-answer">Yes.</div>
+                <p class="analysis-explanation">The acquisition source is a primary predictor of user retention. Channels that attract high-intent, pre-qualified users deliver significantly higher long-term value and lower churn compared to broad, volume-focused paid campaigns.</p>
+                
+                <div class="grid">
+                    <div class="card">
+                        <h3>⭐ Top Performing Channel: Referral</h3>
+                        <p class="kpi-label">M3 Retention (June Cohort)</p>
+                        <p class="kpi trend positive">14.1%</p>
+                        <p>Referral users are the clear winners for long-term value, likely pre-qualified by a trusted recommendation.</p>
+                    </div>
+                     <div class="card">
+                        <h3>🌿 Highest Quality Channel: Organic</h3>
+                         <p class="kpi-label">Post-Subscription Churn</p>
+                        <p class="kpi trend positive">18.8%</p>
+                        <p>Users from Organic search have the lowest churn rate, indicating high intent and excellent product-need fit.</p>
+                    </div>
+                     <div class="card">
+                        <h3>📢 Highest Volume Channel: Google Ads</h3>
+                         <p class="kpi-label">Post-Subscription Churn</p>
+                        <p class="kpi trend negative">27.2%</p>
+                        <p>While effective for driving signups, this channel attracts less-committed users with the highest churn.</p>
+                    </div>
+                    <div class="card" style="grid-column: 1 / -1;">
+                        <h3>Cohort Retention Breakdown by Source (M1 & M3)</h3>
+                         <table>
+                            <thead>
+                                <tr>
+                                    <th>Source / Campaign</th>
+                                    <th>M1 (June '25)</th>
+                                    <th>M1 (July '25)</th>
+                                    <th>M1 (Aug '25)</th>
+                                    <th>M3 (June '25)</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Campaign B</td>
+                                    <td class="highlight-good">32.6%</td>
+                                    <td class="highlight-bad">19.2%</td>
+                                    <td class="highlight-bad">6.4%</td>
+                                    <td>-</td>
+                                </tr>
+                                 <tr>
+                                    <td>Campaign C</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td class="highlight-bad">9.0%</td>
+                                    <td class="highlight-good">12.0%</td>
+                                </tr>
+                                <tr>
+                                    <td>Referral</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td class="highlight-good">14.1%</td>
+                                </tr>
+                                <tr>
+                                    <td>Google Ads</td>
+                                    <td class="highlight-good">32.3%</td>
+                                    <td class="highlight-bad">21.0%</td>
+                                    <td>-</td>
+                                    <td>7.1%</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="note"><strong>Key Insight:</strong> The June 2025 cohort shows significantly stronger retention, which directly contributed to higher revenue. M3 retention for July/August cohorts is not yet mature.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 5: Recommendations -->
+            <section id="recommendations">
+                <h2 class="section-title">4. Strategic Priorities for Sustainable Growth</h2>
+                <ol class="recommendations-list">
+                    <li>
+                        <h4>Fix the Initial Onboarding Experience</h4>
+                        <p><strong>Problem:</strong> 60% of signups never start a trial. This is our biggest growth lever.
+                        <br><strong>Action:</strong> Implement an automated onboarding sequence (emails, in-app tutorials, setup wizard) to guide users to immediate value.</p>
+                    </li>
+                    <li>
+                        <h4>Double Down on High-Quality Channels</h4>
+                        <p><strong>Opportunity:</strong> Referral & Organic users show the best retention and lowest churn.
+                        <br><strong>Action:</strong> Launch a formal customer referral program and increase investment in SEO/content marketing to attract more high-intent users.</p>
+                    </li>
+                    <li>
+                        <h4>Optimize Paid Acquisition for Quality</h4>
+                        <p><strong>Problem:</strong> Google Ads drives volume but has high churn (27.2%).
+                        <br><strong>Action:</strong> Refine ad targeting to high-intent keywords and audiences. Adjust ad copy to set clearer product expectations to pre-qualify users.</p>
+                    </li>
+                    <li>
+                        <h4>Systematize Expansion Revenue</h4>
+                        <p><strong>Opportunity:</strong> The August ARPU spike proves significant revenue potential within our existing customer base.
+                        <br><strong>Action:</strong> Analyze what drove August upgrades (new features, marketing). Build a strategy to systematically encourage upgrades from loyal customers.</p>
+                    </li>
+                </ol>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
