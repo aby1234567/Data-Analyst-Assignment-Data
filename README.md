@@ -69,7 +69,10 @@ Our biggest growth obstacle is the **~60% user drop-off** between **Signup → T
 
 ---
 
-Additional task - Check out the rough[**Data Analytics scalability plan**](https://aby1234567.github.io/Data-Analyst-Assignment-Data/report/scalability_plan.html)
+# Additional task - 
+
+👉 Check out the rough [**Data Analytics scalability plan**](https://aby1234567.github.io/Data-Analyst-Assignment-Data/report/scalability_plan.html)
+
 ---
 
 ## 📂 Repository Structure
