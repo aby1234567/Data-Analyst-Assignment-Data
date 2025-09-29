@@ -1,8 +1,7 @@
 # 📊 BI Dashboard & Stakeholder Report
 
-👉 Check out the 
-<a href="https://lookerstudio.google.com/reporting/59584ec3-62ec-4184-8f4f-28096252e2c8" target="_blank">BI Dashboard</a> and the 
-<a href="https://aby1234567.github.io/Data-Analyst-Assignment-Data/report/stakeholder_report.html" target="_blank">Stakeholder Report</a>.
+👉 Check out the [**BI Dashboard**](https://lookerstudio.google.com/reporting/59584ec3-62ec-4184-8f4f-28096252e2c8) and the [**Stakeholder Report**](https://aby1234567.github.io/Data-Analyst-Assignment-Data/report/stakeholder_report.html).
+
 ---
 
 ## 🔄 Overall Process & Workflow
