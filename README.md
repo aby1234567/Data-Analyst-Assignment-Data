@@ -1,6 +1,6 @@
 # 📊 BI Dashboard & Stakeholder Report
 
-👉 Check out the [**BI Dashboard**](https://your-bi-dashboard-link.com) and the [**Stakeholder Report**](https://aby1234567.github.io/Data-Analyst-Assignment-Data/report/stakeholder_report.html).
+👉 Check out the [**BI Dashboard**](https://lookerstudio.google.com/reporting/59584ec3-62ec-4184-8f4f-28096252e2c8) and the [**Stakeholder Report**](https://aby1234567.github.io/Data-Analyst-Assignment-Data/report/stakeholder_report.html).
 
 ---
 
