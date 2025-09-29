@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Automated Data Platform for CookieYes</title>
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.6;
+        background: #f9f9f9;
+        color: #333;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background: #4A90E2;
+        color: white;
+        padding: 20px 0;
+        text-align: center;
+    }
+    header h1 {
+        margin: 0;
+        font-size: 2em;
+    }
+    section {
+        max-width: 1200px;
+        margin: 20px auto;
+        padding: 20px;
+        background: white;
+        box-shadow: 0 0 10px rgba(0,0,0,0.05);
+        border-radius: 10px;
+    }
+    h2 {
+        color: #4A90E2;
+        margin-top: 1em;
+    }
+    h3 {
+        color: #333;
+        margin-top: 1em;
+    }
+    pre {
+        background: #f4f4f4;
+        border-left: 5px solid #4A90E2;
+        padding: 15px;
+        overflow-x: auto;
+        border-radius: 5px;
+    }
+    code {
+        font-family: monospace;
+        color: #c7254e;
+    }
+    ul {
+        margin-left: 20px;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 15px 0;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+    }
+    th {
+        background-color: #f4f4f4;
+    }
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Automated Data Platform for CookieYes</h1>
+    <p>From manual analysis to automated, scalable, and repeatable data pipelines</p>
+</header>
+
+<section>
+    <h2>1. High-Level Architecture</h2>
+    <p>
+        The goal is to automate all data workflows, turning raw data into analysis-ready insights without manual intervention. 
+        This architecture leverages AWS managed services for reliability, scalability, and cost efficiency.
+    </p>
+    <pre>
+[External Sources] ---> [Ingestion Layer] ---> [Data Lake (S3)] ---> [Loading] ---> [Data Warehouse (Redshift)] ---> [Transformation (dbt)] ---> [BI & Reporting]
+(APIs, DBs, Logs)      (Lambda, DMS)        (Raw & Processed)     (COPY Cmd)        (Staging & Marts)         (SQL Models)         (Looker, PowerBI)
+    </pre>
+
+    <h3>Data Ingestion (S3 Landing Zone)</h3>
+    <ul>
+        <li><strong>Source:</strong> All raw data lands in S3, acting as a single source of truth.</li>
+        <li><strong>Mechanism:</strong>
+            <ul>
+                <li><strong>Batch Files:</strong> Lambda functions fetch CSV/TSV/JSON files from APIs and drop them into S3 daily.</li>
+                <li><strong>Internal DBs:</strong> AWS DMS continuously replicates data into S3.</li>
+                <li><strong>Logs:</strong> Kinesis Data Firehose streams server logs directly to S3.</li>
+            </ul>
+        </li>
+        <li><strong>S3 Structure:</strong> Well-defined folder paths for automation:
+<pre>
+s3://cookieyes-data-lake/raw/source_name=accounts/dt=2025-08-31/accounts.csv
+s3://cookieyes-data-lake/raw/source_name=ad_performance/dt=2025-08-31/ad_performance.json
+s3://cookieyes-data-lake/raw/source_name=server_events/dt=2025-08-31/events-part-1.log
+</pre>
+        </li>
+    </ul>
+
+    <h3>Data Loading (S3 → Redshift)</h3>
+    <p>
+        AWS Step Functions orchestrate the pipeline: a new file in S3 triggers a Lambda function that loads it into Redshift staging tables using the COPY command.
+    </p>
+
+    <h3>Data Transformation (Inside Redshift)</h3>
+    <p>
+        We use <strong>dbt</strong> to clean, integrate, and structure data into a star schema. Fact tables hold metrics, while dimension tables provide descriptive context. The same Step Function triggers dbt after loading.
+    </p>
+
+    <h3>Data Consumption (BI & Analysis)</h3>
+    <p>
+        BI tools like Looker Studio, Power BI, or Tableau connect directly to Redshift marts. Analysts get fast, pre-computed, clean data without worrying about raw formats.
+    </p>
+</section>
+
+<section>
+    <h2>2. Schema Diagrams (Redshift)</h2>
+
+    <h3>Staging Tables</h3>
+    <pre>
+-- accounts.csv
+CREATE TABLE staging.stg_accounts (
+    account_id VARCHAR(255),
+    signup_date DATE,
+    account_type VARCHAR(50),
+    marketing_source VARCHAR(100)
+);
+
+-- subscriptions.csv
+CREATE TABLE staging.stg_subscriptions (
+    subscription_id VARCHAR(255),
+    account_id VARCHAR(255),
+    plan_name VARCHAR(50),
+    status VARCHAR(50),
+    start_date DATE,
+    end_date DATE
+);
+
+-- invoices.tsv
+CREATE TABLE staging.stg_invoices (
+    invoice_id VARCHAR(255),
+    subscription_id VARCHAR(255),
+    issue_date DATE,
+    due_date DATE,
+    amount_due NUMERIC(10, 2),
+    amount_paid NUMERIC(10, 2),
+    status VARCHAR(50)
+);
+
+-- server_events.log
+CREATE TABLE staging.stg_server_events (
+    event_timestamp TIMESTAMP,
+    account_id VARCHAR(255),
+    event_type VARCHAR(100),
+    event_properties SUPER
+);
+
+-- ad_performance.json
+CREATE TABLE staging.stg_ad_performance (
+    campaign_id VARCHAR(255),
+    campaign_name VARCHAR(255),
+    report_date DATE,
+    impressions INT,
+    clicks INT,
+    cost NUMERIC(10, 2)
+);
+    </pre>
+
+    <h3>Production Marts (Star Schema)</h3>
+    <pre>
+-- Dimension Tables
+CREATE TABLE marts.dim_accounts (
+    account_key INT IDENTITY(1,1) PRIMARY KEY,
+    account_id VARCHAR(255) UNIQUE,
+    signup_date DATE,
+    first_campaign_source VARCHAR(100),
+    account_type VARCHAR(50)
+);
+
+CREATE TABLE marts.dim_plans (
+    plan_key INT IDENTITY(1,1) PRIMARY KEY,
+    plan_name VARCHAR(50) UNIQUE,
+    is_trial BOOLEAN,
+    is_paid BOOLEAN
+);
+
+CREATE TABLE marts.dim_campaigns (
+    campaign_key INT IDENTITY(1,1) PRIMARY KEY,
+    campaign_id VARCHAR(255) UNIQUE,
+    campaign_name VARCHAR(255)
+);
+
+CREATE TABLE marts.dim_dates (
+    date_key INT PRIMARY KEY,
+    full_date DATE,
+    year INT,
+    quarter INT,
+    month INT,
+    month_name VARCHAR(20),
+    day_of_week INT
+);
+
+-- Fact Tables
+CREATE TABLE marts.fct_user_journey_events (
+    event_id BIGINT IDENTITY(1,1),
+    account_key INT REFERENCES marts.dim_accounts(account_key),
+    date_key INT REFERENCES marts.dim_dates(date_key),
+    event_timestamp TIMESTAMP,
+    event_type VARCHAR(100),
+    event_sequence INT
+);
+
+CREATE TABLE marts.fct_monthly_revenue (
+    account_key INT REFERENCES marts.dim_accounts(account_key),
+    plan_key INT REFERENCES marts.dim_plans(plan_key),
+    month_start_date DATE,
+    mrr NUMERIC(10, 2),
+    is_active BOOLEAN,
+    PRIMARY KEY(account_key, month_start_date)
+);
+    </pre>
+</section>
+
+<section>
+    <h2>3. Python Lambda Pseudo-Code for Automation</h2>
+    <pre>
+import boto3
+import redshift_connector
+
+def lambda_handler(event, context):
+    s3_bucket = event['Records'][0]['s3']['bucket']['name']
+    s3_key = event['Records'][0]['s3']['object']['key']
+
+    source_name = s3_key.split('/')[1].split('=')[1]
+    target_table = f"staging.stg_{source_name}"
+
+    copy_options = ""
+    if source_name == "accounts":
+        copy_options = "CSV IGNOREHEADER 1"
+    elif source_name == "invoices":
+        copy_options = "DELIMITER '\\t' IGNOREHEADER 1"
+    elif source_name in ["server_events", "ad_performance"]:
+        copy_options = "JSON 'auto'"
+
+    conn = redshift_connector.connect(
+        host='your-redshift-cluster.region.amazonaws.com',
+        database='your_db',
+        user='your_user',
+        password='your_password'
+    )
+    cursor = conn.cursor()
+    iam_role_arn = 'arn:aws:iam::123456789012:role/RedshiftS3AccessRole'
+
+    copy_sql = f"""
+        COPY {target_table}
+        FROM 's3://{s3_bucket}/{s3_key}'
+        IAM_ROLE '{iam_role_arn}'
+        {copy_options};
+    """
+    try:
+        cursor.execute("BEGIN;")
+        cursor.execute(f"TRUNCATE {target_table};")
+        cursor.execute(copy_sql)
+        cursor.execute("COMMIT;")
+    except Exception as e:
+        cursor.execute("ROLLBACK;")
+        raise e
+    finally:
+        cursor.close()
+        conn.close()
+
+    return {'status': 'success'}
+    </pre>
+</section>
+
+<section>
+    <h2>4. How This Solves CookieYes Tasks & Scales</h2>
+    <ul>
+        <li><strong>Data Integration:</strong> Automatically ingests CSV, TSV, JSON, and log files into Redshift. dbt cleans, integrates, and standardizes data.</li>
+        <li><strong>Funnel Analysis:</strong> Use <code>marts.fct_user_journey_events</code> to track user events by campaign.
+<pre>
+SELECT event_type, COUNT(DISTINCT account_key) AS user_count
+FROM marts.fct_user_journey_events
+ORDER BY event_sequence;
+</pre>
+        </li>
+        <li><strong>Cohort Analysis:</strong> Track retention using <code>dim_accounts</code> and <code>fct_monthly_revenue</code>.
+<pre>
+SELECT DATE_TRUNC('month', da.signup_date) AS cohort_month,
+       DATE_TRUNC('month', fmr.month_start_date) AS activity_month,
+       COUNT(DISTINCT fmr.account_key) AS retained_users
+FROM marts.dim_accounts da
+JOIN marts.fct_monthly_revenue fmr ON da.account_key = fmr.account_key
+WHERE fmr.is_active = TRUE
+GROUP BY 1,2;
+</pre>
+        </li>
+        <li><strong>Revenue Insights:</strong>
+<pre>
+-- MRR
+SELECT month_start_date, SUM(mrr) FROM marts.fct_monthly_revenue GROUP BY 1;
+
+-- ARPU
+SELECT month_start_date, AVG(mrr)
+FROM marts.fct_monthly_revenue
+WHERE is_active = TRUE
+GROUP BY 1;
+</pre>
+        </li>
+        <li><strong>Dashboard & Storytelling:</strong> BI tools connect directly to marts. Analysts can drag and drop fields, filter by account type, campaign, or signup date.</li>
+    </ul>
+
+    <h3>Benefits</h3>
+    <ul>
+        <li>No manual analysis — fully automated pipeline.</li>
+        <li>Scalable — S3 and Redshift handle growing volumes; Lambda scales automatically.</li>
+        <li>Flexible — new sources integrate easily.</li>
+        <li>Reliable — dbt provides testing, documentation, and version control.</li>
+    </ul>
+</section>
+
+</body>
+</html>
